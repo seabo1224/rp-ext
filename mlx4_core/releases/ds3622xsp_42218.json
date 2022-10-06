@@ -3,7 +3,7 @@
 
   "files": [
     {
-      "name": "mlx4_core-4.4.180plus-broadwellnk.tgz",
+      "name": "mlx4_core-4.4.180plus-broadwellnk_x.tgz",
       "url": "https://raw.githubusercontent.com/seabo1224/rp-ext/main/mlx4_core/releases/mlx4_core-4.4.180plus-broadwellnk_x.tgz",
       "sha256": "7888cfd7a9534133bd32b246824a17ccaf1caee1ea3964ff09ef4eeabfa89d93",
       "packed": true
