@@ -17,7 +17,8 @@
   ],
 
   "kmods": {
-    "mlx4_core.ko": ""
+    "mlx4_core.ko": "",
+    "mlx4_en.ko": ""
   },
 
     "scripts": {
