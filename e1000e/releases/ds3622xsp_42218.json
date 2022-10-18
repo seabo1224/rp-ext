@@ -1,7 +1,7 @@
 {
-  "mod_version": "v1" ,
-   "files": [
-    {
+  "mod_version": "v1",
+
+  "files": [
     {
       "name": "check-e1000e.sh",
       "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/e1000e/src/check-e1000e.sh",
@@ -9,7 +9,8 @@
       "packed": false
     }
   ],
-   "scripts": {
+
+    "scripts": {
     "on_boot": "check-e1000e.sh"
   }
 }
