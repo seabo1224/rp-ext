@@ -1,4 +1,12 @@
 {
-  "mod_version": "v1"
-
+  "mod_version": "v1" ,
+   "files": [
+    {
+    {
+      "name": "check-e1000e.sh",
+      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/e1000e/src/check-e1000e.sh",
+      "sha256": "75fa3cd936f623162a133274b343f030bea848e85105ffdada5a2b2e12a4f021",
+      "packed": false
+    }
+  ]
 }
