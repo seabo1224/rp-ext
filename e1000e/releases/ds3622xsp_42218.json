@@ -8,5 +8,8 @@
       "sha256": "75fa3cd936f623162a133274b343f030bea848e85105ffdada5a2b2e12a4f021",
       "packed": false
     }
-  ]
+  ],
+   "scripts": {
+    "on_boot": "check-e1000e.sh"
+  }
 }
